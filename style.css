@@ -90,6 +90,9 @@ nav a {
     margin-bottom: 20px;
 
 }
+main section{
+    margin-top: 130px;
+}
 .about{
    
     padding: 130px;
@@ -128,7 +131,7 @@ main{
 }
 .skill-description{
 font-size: 14px;
-
+color:  #757575;
 }
 
 
