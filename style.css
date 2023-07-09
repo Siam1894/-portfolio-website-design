@@ -1,16 +1,19 @@
 
 body{
     font-family: 'Poppins', sans-serif;
+    background-color: black;
+    margin:0;
+    padding: 0;
 }
 nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
-
+    margin: 0 100px ;
 
 }
 .title{
-    color: #181818;
+    color: #fff;
     font-size: 45px;
     font-weight: 800;
 }
@@ -39,7 +42,18 @@ nav li {
 }
 nav a {
     text-decoration: none;
-    color: #474747;
+    color: #fff;
    
 
+}
+
+.banner{
+    color: #fff;
+   padding: 30px 30px 30px 50px;
+   display: flex;
+   align-items: center;
+}
+.banner .profile-pic{
+
+   width: 500px; 
 }
