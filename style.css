@@ -168,6 +168,19 @@ color: #757575;
     margin-top: 50px;
 
 }
+.img-icon{
+    width: 40px;
+    
+}
+.footer-column{
+   
+    background: #fff8f3;
+    margin-top: 100px;
+    padding: 130px 200px;
+}
+footer{
+    display: flex;
+}
 
 
 
